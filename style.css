@@ -1,0 +1,34 @@
+body {
+    font-family: Tahoma, serif;
+    background: url(backgroud.png);
+}
+
+h1 {
+    color: #8e8eb8;
+}
+
+.learned-ok {
+    color: rgb(55, 255, 0);
+    font-size: 24px;
+    text-shadow: 5px 5px 5px black;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.learned-ok:hover {
+    color: rgb(94, 176, 0);
+}
+
+.learning-in-progress {
+    color: orange;
+   
+}
+
+.not-learned {
+    color: red;
+    
+}
+
+img {
+    width: 200px;
+}
+
